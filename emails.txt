@@ -1,0 +1,12 @@
+from: John Subject: Cofee time date: 19/7/22 13:00
+Hey george ,what time we will go tomorrow for Coffee?
+from: George Subject: RE:Cofee time date: 19/7/22 15:31
+I think at 12 is a good time!
+from: John Subject: Cofee time date Confirmation date: 19/7/22 20:08
+OK See ya there
+from: Unknown Subject: Spaming date: 20/8/22 22:22
+This is a spam email.
+from: Adnertiser1 Subject: New Sales-50%: date: 15/1/23 12:01
+New sales in online shop
+Only for 10 days
+Don't miss it
